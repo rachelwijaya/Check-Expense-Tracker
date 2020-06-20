@@ -1,2 +1,2 @@
 # Check Expense Tracker
- A semester 2 final project for Programming Language. The use of JavaFx and MySQL has been used
+ A semester 2 final project for Programming Language. JavaFX was used to create the GUIs and MySQL database to login and signup on the program. If you want to run this program on your own machine, do not forget to have your own database you can connect to. Please make the changes in ConnectionUtil.java and download msqyl-connector-java-5.140 so that the program runs smoothly.
